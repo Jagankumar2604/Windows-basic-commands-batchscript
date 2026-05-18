@@ -78,6 +78,8 @@ Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
 
+<img width="2157" height="729" alt="image" src="https://github.com/user-attachments/assets/9766e7b8-9c73-44c0-a2fa-9a50477e189c" />
+
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
@@ -86,6 +88,8 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 ## OUTPUT
+
+<img width="357" height="58" alt="image" src="https://github.com/user-attachments/assets/c222265f-d661-4a55-9b1f-a45ca49ebc01" />
 
 
 
@@ -113,6 +117,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 ## OUTPUT
 
 
+<img width="441" height="127" alt="image" src="https://github.com/user-attachments/assets/ba58fa34-4f9b-425a-b04b-7765cde353c9" />
 
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
@@ -125,6 +130,8 @@ Expected Output (if the file exists):
 
 ## OUTPUT
 
+<img width="1181" height="358" alt="image" src="https://github.com/user-attachments/assets/e4901778-3388-4a39-b687-abf78d9cc54d" />
+
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -135,6 +142,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
+<img width="665" height="632" alt="image" src="https://github.com/user-attachments/assets/b8d6478f-134c-41a5-a021-2b2dadd9c2de" />
 
 
 # RESULT:
