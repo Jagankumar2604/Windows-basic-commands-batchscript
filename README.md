@@ -28,33 +28,50 @@ Create a directory named "my-folder"
 
 Remove the directory "my-folder"
 
+z<img width="510" height="187" alt="image" src="https://github.com/user-attachments/assets/2b0e214c-efc3-4dd0-bbbe-20847a3d6abf" />
+
 ## COMMAND AND OUTPUT
 
+
+<img width="511" height="113" alt="image" src="https://github.com/user-attachments/assets/bc4819d1-2470-44b6-9e1b-72e5e38872f9" />
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
 
 
+<img width="515" height="367" alt="image" src="https://github.com/user-attachments/assets/b46a1ca7-f01c-45ac-b863-91a74d28f47b" />
+
+
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
+
+<img width="1237" height="132" alt="image" src="https://github.com/user-attachments/assets/ef28c630-3094-49a1-b85d-5de80a174a8b" />
 
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
 
+<img width="757" height="177" alt="image" src="https://github.com/user-attachments/assets/1d416748-7cd4-4d07-9a06-f07db7e6dabe" />
+
+
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
 
+<img width="752" height="187" alt="image" src="https://github.com/user-attachments/assets/6b96c4ad-85c8-4422-b0fe-096d4dccb431" />
+
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
+<img width="752" height="187" alt="image" src="https://github.com/user-attachments/assets/9187bbf7-db62-4f64-8990-de4ba3eb5f50" />
 
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
+
+<img width="751" height="295" alt="image" src="https://github.com/user-attachments/assets/734d93ad-64b6-4876-a3a3-87d5fcd4356d" />
 
 
 Compare the file hello.txt and rose.txt
@@ -84,6 +101,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
+<img width="798" height="253" alt="image" src="https://github.com/user-attachments/assets/3a990f8b-e990-4189-8225-dc875c09bea5" />
 
 
 
